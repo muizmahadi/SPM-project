@@ -1,0 +1,48 @@
+<div><label class="form-label">Nama Pelajar tidak hadir:</label></div>
+<div>
+    
+    <!-- Input Box for Filtering -->
+    <input
+      type="text"
+      placeholder="Search student name"
+      class="form-control"
+      [(ngModel)]="searchInput"
+      (input)="onSearchChange()"
+    />
+  
+    <!-- Dropdown Container -->
+    <div style="border: 1px solid #ccc; max-height: 120px; overflow-y: auto;">
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
+        <li
+          *ngFor="let name of filteredNames"
+          (click)="onNameSelect(name)"
+          style="padding: 5px; cursor: pointer;"
+        >
+          {{ name }}
+        </li>
+      </ul>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>Bil</th>
+          <th>Nama</th>
+          <th>A.Giliran</th>
+          <th>No.KP</th>
+          <th>Tambahan</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let student of selectedStudents; let i = index">
+          <td>{{ i + 1 }}</td>
+          <td>{{ student.nama_calon }}</td>
+          <td>{{ student.a_giliran }}</td>
+          <td>{{ student.no_kp }}</td>
+          <td>
+            <button (click)="removeStudent(i)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  

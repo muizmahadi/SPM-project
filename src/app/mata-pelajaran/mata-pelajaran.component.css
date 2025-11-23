@@ -1,0 +1,81 @@
+/* Parent container */
+.form-group {
+  position: relative;
+  width: 100%; /* Ensure it stretches across the form */
+  margin-bottom: 20px; /* Add spacing below */
+  text-align: left; /* Align the label and input to the left */
+}
+
+/* Label styling */
+.form-label {
+  display: block;
+  /* font-size: 14px;
+  font-weight: bold; */
+  margin-bottom: 5px; /* Spacing between label and input */
+  color: #333;
+}
+
+/* Input field styling */
+.form-control {
+  width: 97%;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.25);
+  outline: none;
+}
+
+/* Dropdown container */
+.dropdown-container {
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  z-index: 1000;
+  width: 100%;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-height: 200px;
+  overflow-y: auto;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+/* Dropdown list styling */
+.dropdown-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Individual dropdown items */
+.dropdown-item {
+  padding: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.dropdown-item:hover {
+  background-color: #007bff;
+  color: #ffffff;
+}
+
+/* Smooth fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

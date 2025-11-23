@@ -1,0 +1,9 @@
+<div class="form-group">
+    <label class="form-label" for="pusatDropdown" value="">Pusat :</label>
+    <select name="" id="pusatInput" [(ngModel)]="selectedPusat" 
+    (change)="onPusatChange($event)" class="form-control">
+        <option value=""  selected disabled>Pilih salah satu</option>
+        <option *ngFor="let pusat of pusatOptions" [value]="pusat">{{pusat}}</option>
+        
+    </select>
+</div>

@@ -1,0 +1,31 @@
+<div class="form-group">
+  <!-- Label -->
+  <label for="mata-pelajaranDropdown" class="form-label">Mata Pelajaran:</label>
+
+  <!-- Input field for filtering -->
+  <input
+    type="text"
+    id="mata-pelajaranDropdown"
+    placeholder="Sila masukkan mata-pelajaran"
+    [(ngModel)]="searchText"
+    (focus)="handleFocus()"
+    (input)="filterOptions()"
+    (blur)="handleBlur()"
+    class="form-control"
+  />
+
+  <!-- Scrollable dropdown -->
+  <div *ngIf="showDropdown && filteredOptions.length > 0" class="dropdown-container">
+    <ul class="dropdown-list">
+      <li
+        *ngFor="let option of filteredOptions"
+        (click)="selectOption(option)"
+        tabindex="0"
+        (keydown.enter)="selectOption(option)"
+        class="dropdown-item"
+      >
+        {{ option }}
+      </li>
+    </ul>
+  </div>
+</div>

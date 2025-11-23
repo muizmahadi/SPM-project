@@ -1,0 +1,16 @@
+<!-- Masa Selection -->
+<div class="form-group">
+    <label class="form-label" for="masaInput">Masa:</label>
+    <select
+      id="masaInput"
+      class="form-control"
+      [(ngModel)]="selectedTime"
+      (change)="onMasaChange($event)"
+      name="masaInput"
+    >
+      <option value="" selected disabled>Pilih salah satu</option>
+      <option *ngFor="let timeSlot of timeSlots" [value]="timeSlot">
+        {{ timeSlot }}
+      </option>
+    </select>
+  </div>

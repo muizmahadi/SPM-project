@@ -1,0 +1,15 @@
+<div class="tarikh-masa-container">
+    <!-- Tarikh Selection -->
+    <div class="form-group">
+      <label for="tarikhInput" class="form-label">Tarikh:</label>
+      <input
+        type="date"
+        id="tarikhInput"
+        class="form-control"
+        [(ngModel)]="selectedDate"
+        (change)="onTarikhChange($event)"
+        name="tarikhInput"
+      />
+    </div>
+  
+    

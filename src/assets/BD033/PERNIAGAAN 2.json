@@ -1,0 +1,584 @@
+[
+  {
+    "bil": 1,
+    "a_giliran": "BD033A076",
+    "no_kp": "080817100421",
+    "nama_calon": "AIMAN YUSRI ZULHILMI BIN ZULNAWARIN"
+  },
+  {
+    "bil": 2,
+    "a_giliran": "BD033A077",
+    "no_kp": "080328050291",
+    "nama_calon": "DANIAL ADAM BUKHARI BIN MOHAMAD BAKHTIAR"
+  },
+  {
+    "bil": 3,
+    "a_giliran": "BD033A078",
+    "no_kp": "080131140525",
+    "nama_calon": "DANIAL EIMAN BIN SUKARNO"
+  },
+  {
+    "bil": 4,
+    "a_giliran": "BD033A079",
+    "no_kp": "080808101481",
+    "nama_calon": "EFFZREY ZAFRIE BIN EFFARZ EMRAN"
+  },
+  {
+    "bil": 5,
+    "a_giliran": "BD033A080",
+    "no_kp": "081202101588",
+    "nama_calon": "KHAIRUNNISA' FAZWANI BINTI MOHD KHAIR"
+  },
+  {
+    "bil": 6,
+    "a_giliran": "BD033A081",
+    "no_kp": "081001021186",
+    "nama_calon": "MELOR SURIA BINTI ABDULLAH"
+  },
+  {
+    "bil": 7,
+    "a_giliran": "BD033A082",
+    "no_kp": "080522100651",
+    "nama_calon": "MOHAMAD ARFAN HAFIFI BIN SAIFUL AMRI"
+  },
+  {
+    "bil": 8,
+    "a_giliran": "BD033A083",
+    "no_kp": "080802101851",
+    "nama_calon": "MUHAMMAD AZRAEI BIN IZANI"
+  },
+  {
+    "bil": 9,
+    "a_giliran": "BD033A084",
+    "no_kp": "080520102303",
+    "nama_calon": "MUHAMMAD FARRISH HAQIEMI BIN MOHD HELMI"
+  },
+  {
+    "bil": 10,
+    "a_giliran": "BD033A085",
+    "no_kp": "081224141185",
+    "nama_calon": "MUHAMMAD HAFIZUDDIN BIN JUMA'IN"
+  },
+  {
+    "bil": 11,
+    "a_giliran": "BD033A086",
+    "no_kp": "080501101313",
+    "nama_calon": "MUHAMMAD HAZIQ BIN HAIRUDIN"
+  },
+  {
+    "bil": 12,
+    "a_giliran": "BD033A087",
+    "no_kp": "081016101277",
+    "nama_calon": "MUHAMMAD HAZIQ HAKIMI BIN ROSLI"
+  },
+  {
+    "bil": 13,
+    "a_giliran": "BD033A088",
+    "no_kp": "081015140637",
+    "nama_calon": "MUHAMMAD IMAN FAIZ SYAHMI BIN FADZLLYSHAH"
+  },
+  {
+    "bil": 14,
+    "a_giliran": "BD033A089",
+    "no_kp": "080209101279",
+    "nama_calon": "MUHAMMAD KHAIFARISH IRFAN BIN KHAIRUL ADHA"
+  },
+  {
+    "bil": 15,
+    "a_giliran": "BD033A090",
+    "no_kp": "080824100323",
+    "nama_calon": "MUHAMMAD LUQMAN HAKIM BIN ANUAR"
+  },
+  {
+    "bil": 16,
+    "a_giliran": "BD033A091",
+    "no_kp": "081213102017",
+    "nama_calon": "MUHAMMAD SHAQEEMI EDRILF BIN MUHAMAD SAIFUL NIZAM"
+  },
+  {
+    "bil": 17,
+    "a_giliran": "BD033A092",
+    "no_kp": "080912160107",
+    "nama_calon": "NASHRIN FARISH BIN MOHD NAZRY"
+  },
+  {
+    "bil": 18,
+    "a_giliran": "BD033A093",
+    "no_kp": "080731100121",
+    "nama_calon": "NAUFAL HAZIQ BIN SAIFUL NIZAM"
+  },
+  {
+    "bil": 19,
+    "a_giliran": "BD033A094",
+    "no_kp": "081003100312",
+    "nama_calon": "NOOR AYNA SYAZWANI BINTI MUHAMMAD FATHULLAH"
+  },
+  {
+    "bil": 20,
+    "a_giliran": "BD033A095",
+    "no_kp": "081215141036",
+    "nama_calon": "NUR AIN KHADIJAH BINTI MOHD QISTI"
+  },
+  {
+    "bil": 21,
+    "a_giliran": "BD033A096",
+    "no_kp": "081008020370",
+    "nama_calon": "NUR AINA ZULAIKHA BINTI MUHAMMAD GHAZALI"
+  },
+  {
+    "bil": 22,
+    "a_giliran": "BD033A097",
+    "no_kp": "080915100126",
+    "nama_calon": "NUR SYIFA HUMAIRA BINTI MOHAMAD HISHAM"
+  },
+  {
+    "bil": 23,
+    "a_giliran": "BD033A098",
+    "no_kp": "081208101538",
+    "nama_calon": "NURFATEHA NADZIRAH BINTI ABDUL RAHMAN"
+  },
+  {
+    "bil": 24,
+    "a_giliran": "BD033A099",
+    "no_kp": "081229100032",
+    "nama_calon": "NURIN MAISARAH BINTI NAZARUDDIN"
+  },
+  {
+    "bil": 25,
+    "a_giliran": "BD033A100",
+    "no_kp": "080402101764",
+    "nama_calon": "NURUL AIN SUHAILA BINTI MOHAMAD NOOR"
+  },
+  {
+    "bil": 26,
+    "a_giliran": "BD033A101",
+    "no_kp": "080717140426",
+    "nama_calon": "NURUL SYAQEELA BINTI NUR IDHAM SAFARIN"
+  },
+  {
+    "bil": 27,
+    "a_giliran": "BD033A102",
+    "no_kp": "080315100544",
+    "nama_calon": "PUTERI FARRA ASYIQIN BINTI YUSRI"
+  },
+  {
+    "bil": 28,
+    "a_giliran": "BD033A103",
+    "no_kp": "081123101352",
+    "nama_calon": "PUTERI NURRUSSYAFIQAH ILLYANA BINTI HERWAN"
+  },
+  {
+    "bil": 29,
+    "a_giliran": "BD033A104",
+    "no_kp": "080905101045",
+    "nama_calon": "RYIAN HIDAYAT BIN ERWAN"
+  },
+  {
+    "bil": 30,
+    "a_giliran": "BD033A105",
+    "no_kp": "080421102367",
+    "nama_calon": "SHAHRIDWAN BIN SHAH NIZAM"
+  },
+  {
+    "bil": 31,
+    "a_giliran": "BD033A106",
+    "no_kp": "081204100773",
+    "nama_calon": "SHAMEL ZIKRY BIN SHAHRIMAN"
+  },
+  {
+    "bil": 32,
+    "a_giliran": "BD033A132",
+    "no_kp": "080510140883",
+    "nama_calon": "ADAM DANIEL BIN ADZARUDDIN"
+  },
+  {
+    "bil": 33,
+    "a_giliran": "BD033A133",
+    "no_kp": "080820140694",
+    "nama_calon": "ADRIANA NURNAJLA BINTI MOHD ASRAF"
+  },
+  {
+    "bil": 34,
+    "a_giliran": "BD033A134",
+    "no_kp": "081226102083",
+    "nama_calon": "AQQEF NAUFFAL RILL BIN EWA SHAHRIL"
+  },
+  {
+    "bil": 35,
+    "a_giliran": "BD033A135",
+    "no_kp": "080725100328",
+    "nama_calon": "ARSYAHFIKA BINTI ANUAR"
+  },
+  {
+    "bil": 36,
+    "a_giliran": "BD033A136",
+    "no_kp": "080315130911",
+    "nama_calon": "CHRISTIANO IRONG ANAK LAMAT"
+  },
+  {
+    "bil": 37,
+    "a_giliran": "BD033A137",
+    "no_kp": "080912102513",
+    "nama_calon": "EQY AIMAN BIN ZAKARIA"
+  },
+  {
+    "bil": 38,
+    "a_giliran": "BD033A138",
+    "no_kp": "080323140407",
+    "nama_calon": "IZZ HARRAZ ZAFRAN BIN NOOR AZMI"
+  },
+  {
+    "bil": 39,
+    "a_giliran": "BD033A139",
+    "no_kp": "081216101634",
+    "nama_calon": "KHADEEJA NUR QAISARA BINTI YAZID"
+  },
+  {
+    "bil": 40,
+    "a_giliran": "BD033A140",
+    "no_kp": "080330100980",
+    "nama_calon": "MASLIZA BINTI MASLAN"
+  },
+  {
+    "bil": 41,
+    "a_giliran": "BD033A141",
+    "no_kp": "081102100967",
+    "nama_calon": "MUHAMAD DENISH AIMAN BIN YUSRI"
+  },
+  {
+    "bil": 42,
+    "a_giliran": "BD033A142",
+    "no_kp": "081008141025",
+    "nama_calon": "MUHAMMAD AIMAN BIN AZMAN"
+  },
+  {
+    "bil": 43,
+    "a_giliran": "BD033A143",
+    "no_kp": "080316160071",
+    "nama_calon": "MUHAMMAD AMIR AMIRUL YUSUFF BIN AZHARI"
+  },
+  {
+    "bil": 44,
+    "a_giliran": "BD033A144",
+    "no_kp": "080908102203",
+    "nama_calon": "MUHAMMAD HARITH BIN FAUZI"
+  },
+  {
+    "bil": 45,
+    "a_giliran": "BD033A145",
+    "no_kp": "080914102293",
+    "nama_calon": "MUHAMMAD HAZWAN DANIAL BIN SAHRUDDIN"
+  },
+  {
+    "bil": 46,
+    "a_giliran": "BD033A146",
+    "no_kp": "080722102563",
+    "nama_calon": "MUHAMMAD JEVINRA BIN ARLIS"
+  },
+  {
+    "bil": 47,
+    "a_giliran": "BD033A147",
+    "no_kp": "081106101588",
+    "nama_calon": "MUSKAN AWATIF"
+  },
+  {
+    "bil": 48,
+    "a_giliran": "BD033A148",
+    "no_kp": "080822160170",
+    "nama_calon": "NAURAH ZAHIAH BINTI ZULKEFLI"
+  },
+  {
+    "bil": 49,
+    "a_giliran": "BD033A149",
+    "no_kp": "080804101740",
+    "nama_calon": "NOOR SHALIZA BINTI ZULKEFELLY"
+  },
+  {
+    "bil": 50,
+    "a_giliran": "BD033A150",
+    "no_kp": "080304101744",
+    "nama_calon": "NUR ALYA SYAHIRAH BINTI ROSLI"
+  },
+  {
+    "bil": 51,
+    "a_giliran": "BD033A151",
+    "no_kp": "080829101958",
+    "nama_calon": "NUR ARISSA DANIA BINTI NASRUL NIZAM"
+  },
+  {
+    "bil": 52,
+    "a_giliran": "BD033A152",
+    "no_kp": "081121140470",
+    "nama_calon": "NUR ATHIRAH ZAHIRAH BINTI AZMAN"
+  },
+  {
+    "bil": 53,
+    "a_giliran": "BD033A153",
+    "no_kp": "081117100310",
+    "nama_calon": "NUR DANIA QISTINA BINTI HARIANTO"
+  },
+  {
+    "bil": 54,
+    "a_giliran": "BD033A154",
+    "no_kp": "081027101774",
+    "nama_calon": "NUR IRIS DELISHA BINTI ROSLI"
+  },
+  {
+    "bil": 55,
+    "a_giliran": "BD033A155",
+    "no_kp": "080402140202",
+    "nama_calon": "NUR SYAHIRAH BINTI MOHD KHAIRUL NIZAM"
+  },
+  {
+    "bil": 56,
+    "a_giliran": "BD033A156",
+    "no_kp": "080124100058",
+    "nama_calon": "NURARISAH PUTRI BINTI JUFRI"
+  },
+  {
+    "bil": 57,
+    "a_giliran": "BD033A157",
+    "no_kp": "081109100724",
+    "nama_calon": "NURSHAINA BINTI AZIZAN"
+  },
+  {
+    "bil": 58,
+    "a_giliran": "BD033A158",
+    "no_kp": "080109101992",
+    "nama_calon": "PUTERI SHAHIRA BINTI BUSRIL"
+  },
+  {
+    "bil": 59,
+    "a_giliran": "BD033A159",
+    "no_kp": "080715100578",
+    "nama_calon": "ROSDIANA A/P LUBI"
+  },
+  {
+    "bil": 60,
+    "a_giliran": "BD033A160",
+    "no_kp": "080820141451",
+    "nama_calon": "SANJAYTHARAN A/L BALAKRISHNAN"
+  },
+  {
+    "bil": 61,
+    "a_giliran": "BD033A161",
+    "no_kp": "080225141166",
+    "nama_calon": "SITI AYESHA PARNITA PUTRI BINTI SALIM"
+  },
+  {
+    "bil": 62,
+    "a_giliran": "BD033A162",
+    "no_kp": "080923100222",
+    "nama_calon": "UMMI NUR QASDINA BINTI MAZ EFFENDY"
+  },
+  {
+    "bil": 63,
+    "a_giliran": "BD033A163",
+    "no_kp": "080218101836",
+    "nama_calon": "UZMA DAMIA BINTI AZMAN"
+  },
+  {
+    "bil": 64,
+    "a_giliran": "BD033A164",
+    "no_kp": "080613101596",
+    "nama_calon": "VINA DEBBORAH ANAK JULIN"
+  },
+  {
+    "bil": 65,
+    "a_giliran": "BD033A165",
+    "no_kp": "080529080649",
+    "nama_calon": "ADAM ABIDIN BIN KHAIRUL HUSNI"
+  },
+  {
+    "bil": 66,
+    "a_giliran": "BD033A166",
+    "no_kp": "080605100884",
+    "nama_calon": "AMANI NAJLAA BINTI ISMAIL"
+  },
+  {
+    "bil": 67,
+    "a_giliran": "BD033A167",
+    "no_kp": "081224101271",
+    "nama_calon": "AMIR HAZIQ NAZMI BIN MOHD NAZAR"
+  },
+  {
+    "bil": 68,
+    "a_giliran": "BD033A168",
+    "no_kp": "080323100739",
+    "nama_calon": "AMMAR ZARIF BIN REMAN"
+  },
+  {
+    "bil": 69,
+    "a_giliran": "BD033A169",
+    "no_kp": "080117102098",
+    "nama_calon": "ARYANA NAFASHA BINTI NAFRIZAL"
+  },
+  {
+    "bil": 70,
+    "a_giliran": "BD033A170",
+    "no_kp": "080715100172",
+    "nama_calon": "DAYANG NUR AZNIRAH BINTI MAT ZIN"
+  },
+  {
+    "bil": 71,
+    "a_giliran": "BD033A171",
+    "no_kp": "081022100481",
+    "nama_calon": "FARISH SYAHRIN BIN FADZLI SAFRIN"
+  },
+  {
+    "bil": 72,
+    "a_giliran": "BD033A172",
+    "no_kp": "080613140587",
+    "nama_calon": "IQBAL DANIAL BIN MOHD ZAHIR"
+  },
+  {
+    "bil": 73,
+    "a_giliran": "BD033A173",
+    "no_kp": "080723100404",
+    "nama_calon": "JAZILA BINTI AMSAR"
+  },
+  {
+    "bil": 74,
+    "a_giliran": "BD033A174",
+    "no_kp": "080125100826",
+    "nama_calon": "KHAIRUNNAJIHAH BINTI ABD KHALID"
+  },
+  {
+    "bil": 75,
+    "a_giliran": "BD033A175",
+    "no_kp": "080614141127",
+    "nama_calon": "MOHAMAD DANISH BIN ALI GUFRON"
+  },
+  {
+    "bil": 76,
+    "a_giliran": "BD033A176",
+    "no_kp": "081116101741",
+    "nama_calon": "MOHAMMAD ISKANDAR BIN MOHD HAFIZZUDDIN"
+  },
+  {
+    "bil": 77,
+    "a_giliran": "BD033A177",
+    "no_kp": "081022100131",
+    "nama_calon": "MU'IZZ SAIFULLAH BIN NORIHASHAM"
+  },
+  {
+    "bil": 78,
+    "a_giliran": "BD033A178",
+    "no_kp": "080812100799",
+    "nama_calon": "MUHAMMAD ALWAFI BIN MUSA"
+  },
+  {
+    "bil": 79,
+    "a_giliran": "BD033A179",
+    "no_kp": "080209100233",
+    "nama_calon": "MUHAMMAD ANIQ AFNAN BIN AWALLUDIN"
+  },
+  {
+    "bil": 80,
+    "a_giliran": "BD033A180",
+    "no_kp": "081116101821",
+    "nama_calon": "MUHAMMAD ASYRAF BIN MUHAMMAD"
+  },
+  {
+    "bil": 81,
+    "a_giliran": "BD033A181",
+    "no_kp": "081204100511",
+    "nama_calon": "MUHAMMAD ATIF ARFAN BIN SUPIRMAN"
+  },
+  {
+    "bil": 82,
+    "a_giliran": "BD033A182",
+    "no_kp": "080611101453",
+    "nama_calon": "MUHAMMAD AZRUL BIN ABDULLAH"
+  },
+  {
+    "bil": 83,
+    "a_giliran": "BD033A183",
+    "no_kp": "080422102385",
+    "nama_calon": "MUHAMMAD AZSWAT BIN AZHAR"
+  },
+  {
+    "bil": 84,
+    "a_giliran": "BD033A184",
+    "no_kp": "080629101339",
+    "nama_calon": "MUHAMMAD FARYUSH SHAH BIN FAIZUL"
+  },
+  {
+    "bil": 85,
+    "a_giliran": "BD033A185",
+    "no_kp": "080603101875",
+    "nama_calon": "MUHAMMAD FATTAH AZIB BIN MOHD NAIM"
+  },
+  {
+    "bil": 86,
+    "a_giliran": "BD033A186",
+    "no_kp": "081201100209",
+    "nama_calon": "MUHAMMAD HABIB PUTRA BIN ABD.RAHMAN"
+  },
+  {
+    "bil": 87,
+    "a_giliran": "BD033A187",
+    "no_kp": "080320140903",
+    "nama_calon": "MUHAMMAD IRFAN BIN MOHAMAD RAZALI"
+  },
+  {
+    "bil": 88,
+    "a_giliran": "BD033A189",
+    "no_kp": "080722102133",
+    "nama_calon": "MUHAMMAD RAYYAN HAQEEM BIN AHMAD FAUZI"
+  },
+  {
+    "bil": 89,
+    "a_giliran": "BD033A190",
+    "no_kp": "080917102483",
+    "nama_calon": "MUHAMMAD SYABIL RAMADHAN BIN HARDINAL"
+  },
+  {
+    "bil": 90,
+    "a_giliran": "BD033A191",
+    "no_kp": "080319101368",
+    "nama_calon": "NORINZAZELIN BINTI RAZALI"
+  },
+  {
+    "bil": 91,
+    "a_giliran": "BD033A192",
+    "no_kp": "081108100140",
+    "nama_calon": "NUR ALEA BALQIS BINTI ABD RANI"
+  },
+  {
+    "bil": 92,
+    "a_giliran": "BD033A193",
+    "no_kp": "081014141232",
+    "nama_calon": "NUR ALYSHA NAJIHA BINTI RIZAL"
+  },
+  {
+    "bil": 93,
+    "a_giliran": "BD033A194",
+    "no_kp": "080824101094",
+    "nama_calon": "NUR LEEYANA AQILA BINTI MOHD HAFEDZ"
+  },
+  {
+    "bil": 94,
+    "a_giliran": "BD033A195",
+    "no_kp": "081116100124",
+    "nama_calon": "NUR SUMAYYAH FAQIHAH BINTI SUID"
+  },
+  {
+    "bil": 95,
+    "a_giliran": "BD033A196",
+    "no_kp": "080328100770",
+    "nama_calon": "NURUL AIN NAJWA BINTI KAMARUDIN"
+  },
+  {
+    "bil": 96,
+    "a_giliran": "BD033A197",
+    "no_kp": "080730140842",
+    "nama_calon": "PUTRI NURSYUHADA BINTI MUHAMAD SALMIZI"
+  },
+  {
+    "bil": 97,
+    "a_giliran": "BD033A198",
+    "no_kp": "080822101402",
+    "nama_calon": "NURUL MURSYIDA BINTI ABU HASSAN"
+  }
+]
