@@ -39,7 +39,7 @@ export class AppComponent {
   printPage() {
 
     const printContent = `
-      <h2 style="text-align:center;">LAPORAN SPM SMK ABDUL JALIL 2024</h2>
+      <h2 style="text-align:center;">LAPORAN SPM SMK ABDUL JALIL 2025</h2>
       <p style="font-size: 12px;"><strong>Pusat:</strong> ${this.pusatPassed}</p>
       <p style="font-size: 12px;"><strong>Tarikh:</strong> ${this.tarikhPassed}</p>
       <p style="font-size: 12px;"><strong>Masa:</strong> ${this.masaPassed}</p>
